@@ -1,12 +1,11 @@
-package com.example.fuel_app.services;
+package dev.supersoft.wms_app.services;
 
-import com.example.fuel_app.entities.User;
-import com.example.fuel_app.entities.UserRole;
-import com.example.fuel_app.models.RegistrationModel;
-import com.example.fuel_app.repositories.UserRepository;
+import dev.supersoft.wms_app.entities.User;
+import dev.supersoft.wms_app.entities.UserRole;
+import dev.supersoft.wms_app.models.RegistrationModel;
+import dev.supersoft.wms_app.repositories.UserRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

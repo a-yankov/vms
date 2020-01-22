@@ -1,6 +1,6 @@
-package com.example.fuel_app.repositories;
+package dev.supersoft.wms_app.repositories;
 
-import com.example.fuel_app.entities.User;
+import dev.supersoft.wms_app.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

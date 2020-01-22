@@ -1,4 +1,4 @@
-package com.example.fuel_app.models;
+package dev.supersoft.wms_app.models;
 
 import javax.validation.constraints.Size;
 

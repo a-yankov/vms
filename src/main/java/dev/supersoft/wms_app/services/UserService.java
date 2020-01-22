@@ -1,6 +1,6 @@
-package com.example.fuel_app.services;
+package dev.supersoft.wms_app.services;
 
-import com.example.fuel_app.models.RegistrationModel;
+import dev.supersoft.wms_app.models.RegistrationModel;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 public interface UserService extends UserDetailsService {

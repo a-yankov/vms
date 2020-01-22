@@ -1,6 +1,6 @@
-package com.example.fuel_app.repositories;
+package dev.supersoft.wms_app.repositories;
 
-import com.example.fuel_app.entities.UserRole;
+import dev.supersoft.wms_app.entities.UserRole;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

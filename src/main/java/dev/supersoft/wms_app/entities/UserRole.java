@@ -1,4 +1,4 @@
-package com.example.fuel_app.entities;
+package dev.supersoft.wms_app.entities;
 
 import org.springframework.security.core.GrantedAuthority;
 

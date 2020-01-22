@@ -1,11 +1,9 @@
-package com.example.fuel_app.entities;
+package dev.supersoft.wms_app.entities;
 
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.*;
 import java.util.Collection;
-import java.util.List;
 import java.util.Set;
 
 @Entity
